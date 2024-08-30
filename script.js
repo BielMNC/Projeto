@@ -7,9 +7,9 @@ function toggleMode(){
 
   if(html.classList.contains('light')){
 
-    img.setAttribute('src', './assets/Avatar1.png')
+    img.setAttribute('src', './assets/foto.jpg')
   }else{
   
-    img.setAttribute('src', './assets/Avatar.png')
+    img.setAttribute('src', './assets/foto.jpg')
   }
 }
